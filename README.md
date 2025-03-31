@@ -1,4 +1,4 @@
-# JoyPix.ai – AI Avatar Makder with Style Transfer & Voice Cloning & AI Lip-Sync 🚀
+# JoyPix.ai – AI Avatar Maker with Style Transfer & Voice Cloning & AI Lip-Sync 🚀
 🎨 Three Steps to make Virtual Avatar = 🎭 AI Style Transfer + 🎙️ Voice Cloning + 👄 Lip-Sync Animation
 
 JoyPix.ai is an AI-powered platform that transforms your photos and voice into customizable virtual avatars with lifelike speech and artistic styles. Perfect for content creators, gamers, and social media users!
