@@ -42,12 +42,11 @@ Automatically animate avatars to match speech
 
 ## ❓Have Questions? We're Here to Help!
 Contact Our Support Team:
+
   📧 Email: service@joypix.ai
+  
   🌐 Follow Us: 
   
       Twitter: https://x.com/joypixai
       
       Instagram: https://www.instagram.com/joypix.ai
-      
-  
-  
