@@ -19,7 +19,7 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   2. ペットステッカー： ペットの写真にスタイルを適用して、ユニークなステッカーを作ろう。
   
   無料でお試しください: https://www.joypix.ai/custom-avatar
-  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/cea973de-07ca-4c33-bc2d-ae55cb340204" />
+  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/658d5947-dd85-4285-a50c-c11c57c9c918" />
 
   
 ### 🎙️ 無料ボイスクローン
@@ -41,8 +41,7 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   3. ペットのリップシンク： ペットのバイラル動画に最適！
 
   無料でお試しください: https://www.joypix.ai/avatar-talk
-  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/658d5947-dd85-4285-a50c-c11c57c9c918" />
-
+  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/cea973de-07ca-4c33-bc2d-ae55cb340204" />
 
 ## 近日公開: JoyPix.ai API
 
