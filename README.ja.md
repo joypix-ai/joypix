@@ -9,7 +9,8 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
 
   無料でお試しください: https://www.joypix.ai
   
-  <img width="1918" alt="image" src="https://github.com/user-attachments/assets/9cd93386-b5ef-4fe7-9354-ef1ff5645f1f" />
+  <img width="1918" alt="image" src="https://github.com/user-attachments/assets/ab96ef9c-ae7b-4fb4-a6cf-cf0385676397" />
+
   
 ## ✨ 特徴
 ### 🎭 AI画風変換 – 写真をアートに変身させる
@@ -18,7 +19,8 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   2. ペットステッカー： ペットの写真にスタイルを適用して、ユニークなステッカーを作ろう。
   
   無料でお試しください: https://www.joypix.ai/custom-avatar
-  <img width="1918" alt="image" src="https://github.com/user-attachments/assets/7895efb6-f277-4601-80a7-a5b16416a32e" />
+  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/cea973de-07ca-4c33-bc2d-ae55cb340204" />
+
   
 ### 🎙️ 無料ボイスクローン
   1. 10秒でセットアップ: 短い音声クリップをアップロードするだけ。
@@ -28,8 +30,9 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   3. 10カ国語以上対応: 英語、日本語、中国語、フランス語、イタリア語、スペイン語など。
   
   無料でお試しください: https://www.joypix.ai/ai-voice
+  <img width="1918" alt="image" src="https://github.com/user-attachments/assets/2dab334f-dad2-4219-883b-5650a876fbbc" />
+
   
-  <img width="1917" alt="image" src="https://github.com/user-attachments/assets/70fa6b2f-a905-472f-96b9-70fcf7d4a96e" />
 
 ### 👄 AIリップシンク（トーキング・フォト） – アバターに命を吹き込む
 発話に連動して、アバターのアニメーションが自動的に作成される。
@@ -38,7 +41,8 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   3. ペットのリップシンク： ペットのバイラル動画に最適！
 
   無料でお試しください: https://www.joypix.ai/avatar-talk
-  <img width="1910" alt="image" src="https://github.com/user-attachments/assets/0feb1c37-0db9-4259-a1f8-6c27d70fbb97" />
+  <img width="1916" alt="image" src="https://github.com/user-attachments/assets/658d5947-dd85-4285-a50c-c11c57c9c918" />
+
 
 ## 近日公開: JoyPix.ai API
 
