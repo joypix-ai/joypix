@@ -18,6 +18,7 @@ JoyPix.ai is an AI-powered platform that transforms your photos and voice into c
   2.Pet Stickers: Apply styles to pet photos for unique stickers.
 
   Detail: :https://www.joypix.ai/avatar-generator
+  
   Free to Try:https://www.joypix.ai/app/avatar-generator
   <img width="1918" alt="image" src="https://github.com/user-attachments/assets/7895efb6-f277-4601-80a7-a5b16416a32e" />
   
@@ -29,7 +30,8 @@ JoyPix.ai is an AI-powered platform that transforms your photos and voice into c
   3.10+ Languages Support: English, Japanese, Chinese, French, Italian, Spanish, etc.
 
   Detail: :https://www.joypix.ai/voice-cloning
-  Free to Try:https://www.joypix.ai/ai-voice
+  
+  Free to Try:https://www.joypix.ai/app/ai-voice
   
   <img width="1917" alt="image" src="https://github.com/user-attachments/assets/70fa6b2f-a905-472f-96b9-70fcf7d4a96e" />
 
@@ -39,7 +41,9 @@ Automatically animate avatars to match speech
   2. 3 Input Options: Text-to-speech, audio upload, or recording.
   3. Pet Lip-Sync: Fun for viral pet videos!
 
-  Free to Try:https://www.joypix.ai/app/talking-photo
+  Detail:https://www.joypix.ai/talking-photo
+  
+  Free to Try:https://www.joypix.ai/app/talking-avatar
   <img width="1910" alt="image" src="https://github.com/user-attachments/assets/0feb1c37-0db9-4259-a1f8-6c27d70fbb97" />
 
 ## Coming Soon: JoyPix.ai API
