@@ -18,7 +18,7 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   
   2. ペットステッカー： ペットの写真にスタイルを適用して、ユニークなステッカーを作ろう。
   
-  無料でお試しください: https://www.joypix.ai/custom-avatar
+  無料でお試しください: https://www.joypix.ai/app/avatar-generator
   <img width="1916" alt="image" src="https://github.com/user-attachments/assets/658d5947-dd85-4285-a50c-c11c57c9c918" />
 
   
@@ -29,7 +29,7 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   
   3. 10カ国語以上対応: 英語、日本語、中国語、フランス語、イタリア語、スペイン語など。
   
-  無料でお試しください: https://www.joypix.ai/ai-voice
+  無料でお試しください: https://www.joypix.ai/app/ai-voice
   <img width="1918" alt="image" src="https://github.com/user-attachments/assets/2dab334f-dad2-4219-883b-5650a876fbbc" />
 
   
@@ -40,12 +40,12 @@ JoyPix.aiはAIを搭載したサービスで、あなたの写真と声を、本
   2. 3つの入力オプション: テキスト音声合成、音声アップロード、または録音。
   3. ペットのリップシンク： ペットのバイラル動画に最適！
 
-  無料でお試しください: https://www.joypix.ai/avatar-talk
+  無料でお試しください: https://www.joypix.ai/app/talking-avatar
   <img width="1916" alt="image" src="https://github.com/user-attachments/assets/cea973de-07ca-4c33-bc2d-ae55cb340204" />
 
 ## 近日公開: JoyPix.ai API
 
-## 料金プラン: https://www.joypix.ai/upgrade
+## 料金プラン: https://www.joypix.ai/app/upgrade
 
 ## ❓ご質問ですか？私たちがお手伝いします！
 サポートチームにお問い合わせください:
